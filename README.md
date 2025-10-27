@@ -12,10 +12,10 @@ yo code
 ![這是圖片](/assets/img/yo_code.png)
 
 #### 註冊 command
-package.json
+package.json  
 ![這是圖片](/assets/img/package.json.png)
 
-extensin.js
+extensin.js  
 ![這是圖片](/assets/img/extension.js.png)
 
 #### 測試
